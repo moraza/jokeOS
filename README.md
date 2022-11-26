@@ -16,5 +16,5 @@ make build-x86_64
 - This ISO can be booted on a physical device, Virtualization platform (VirtualBox, VMware Workstation, Hyper-V) and QEMU.
 - To boot this on QEMU, run the following command:
 ```bash
-qemu-system-x86_64 -cdrom dist/x86_64/kernel.iso
+qemu-system-x86_64 -cdrom dist/x86_64/jokeOS.iso
 ```
